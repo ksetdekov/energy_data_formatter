@@ -1,6 +1,6 @@
 # Energy_data_formatter
 
-Format data for use with https://re.jrc.ec.europa.eu/pvg_tools/en/tools.html
+Format data for use with <https://re.jrc.ec.europa.eu/pvg_tools/en/tools.html>
 
 This project analyzes and normalizes power consumption data from a meter, comparing it to a reference example from the JRC PVGIS tool. The workflow is implemented in a Jupyter Notebook (`power_cons_norm.ipynb`) using Python and common data science libraries.
 
